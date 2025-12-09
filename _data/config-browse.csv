@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,,Date Created
 description,,,true,,
-creator,Creator,,,,,
+creator,Creator,,,,
 contributor,Contributor,,,true,,
 topics,Topics,,,,true
 peoplementioned,People Mentioned,,,,true,
