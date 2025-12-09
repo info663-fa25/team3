@@ -7,11 +7,8 @@ description,Description,,,DCTERMS.description,description
 topics,Topics,true,,DCTERMS.subject,keywords
 peoplementioned,People Mentioned,true,,DCTERMS.subject,keywords
 organizationmentioned,Organization Mentioned,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
 source,Source,,,,
-identifier,Source Identifier,,,,
+identifier,Identifier,,,,
 type,Type,,,DCTERMS.type,
 display_template,Format,true,,,encodingFormat
 language,Language,,,DCTERMS.language,
