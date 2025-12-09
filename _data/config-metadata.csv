@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,true,,DCTERMS.title,headline
 creator,Creator,true,,DCTERMS.creator,creator
+contributor,Interviewee,true,,DCTERMS.contributor,contributor
 date,Date Created,true,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 topics,Topics,true,,DCTERMS.subject,keywords
