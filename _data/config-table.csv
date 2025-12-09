@@ -2,4 +2,8 @@ field,display_name
 title,Title
 date,Date
 description,Description
-subject,Subjects
+topics,Topics
+peoplementioned,People Mentioned
+organizationmentioned,Organization Mentioned
+creator,Creator
+contributor,Interviewee
