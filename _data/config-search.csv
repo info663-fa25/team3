@@ -7,4 +7,4 @@ description,true,true
 topics,true,true
 peoplementioned,true,true
 organizationmentioned,true,true
-location,true,false
+location,false,false
