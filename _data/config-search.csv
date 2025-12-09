@@ -3,5 +3,7 @@ title,true,true
 date,true,true
 creator,true,false
 description,true,true
-subject,true,true
+topics,true,true
+peoplementioned,true,true
+organizationmentioned,true,true
 location,true,false
