@@ -3,7 +3,9 @@ title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
+topics,Topics,true,,DCTERMS.subject,keywords
+peoplementioned,People Mentioned,true,,DCTERMS.subject,keywords
+organizationmentioned,Organization Mentioned,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
