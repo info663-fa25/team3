@@ -1,10 +1,10 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,,Date Created
-description,Description,,true,,
-creator,Interviewer,,,,
-contributor,Interviewee,,,true,
-topics,Topics,,,,true
-peoplementioned,People Mentioned,,,true,
-organizationmentioned,Organization Mentioned,,,true,
+description,Description,true,,,
+creator,Interviewer,true,,,
+contributor,Interviewee,true,,true,
+topics,Topics,true,,,true
+peoplementioned,People Mentioned,true,,true,
+organizationmentioned,Organization Mentioned,true,,true,
 location,,true,,,Location Depicted
 identifier,,,,true,Identifier
