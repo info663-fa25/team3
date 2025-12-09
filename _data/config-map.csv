@@ -1,5 +1,7 @@
 field,display_name,search
 date,Date,true
-creator,Creator,true
-subject,Subjects,true
+contributor,Interviewee,true
+topics,Topics,true
+peoplementioned,People Mentioned,true
+organizationmentioned, Organization Mentioned,true
 location,Location,true
