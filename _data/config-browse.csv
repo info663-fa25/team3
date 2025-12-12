@@ -2,7 +2,7 @@ field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,,Date Created
 description,Description,true,,,
 creator,Interviewer,true,,,
-contributor,Interviewee,true,,true,
+contributor,Interviewee,true,,,
 topics,Topics,true,,,true
 peoplementioned,People Mentioned,true,,true,
 organizationmentioned,Organization Mentioned,true,,true,
