@@ -3,7 +3,7 @@ date,Date,,,,Date Created
 description,Description,true,,,
 creator,Interviewer,true,,,
 contributor,Interviewee,true,,,
-topics,Topics,true,,,true
+topics,Topics,true,,true,
 peoplementioned,People Mentioned,true,,true,
 organizationmentioned,Organization Mentioned,true,,true,
 location,,true,,,Location Depicted
